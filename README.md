@@ -11,7 +11,7 @@
  - [ Youtube 강의](https://tinyurl.com/mqh4g73)
  - [ 발표계획 및 교재내용&Youtube 정리(구글드라이브)](https://docs.google.com/spreadsheets/d/1yejRWNkHzr1tkJ2kY6v8Y0BY_ZJGrR7JJXrDYSN8LnE/edit#gid=2023258204)
  - 스터디인원: 11명
- - 비용: 스터디공간 지원으로 무료!(Thanks to Colorbutton)
+ - 비용: 스터디공간 지원으로 무료! Thanks to Cozy @Colorbutton
   
    
 ## 2. 스터디 운영방향
