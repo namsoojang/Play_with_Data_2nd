@@ -21,7 +21,8 @@
  - 회차별 스터디 종료시 2주후 발표자까지 선정함
  - 참석동기부여: 참석 1회당 payback 지정. 전체 금액 선입금 후 스터디 참석시 payback(마지막 회차에서 정산. 중간 환불 없음)
    ※ 잔액은 3/28 마지막날 회식비에 사용 예정 
- 
+   ※ 1회당 3천원씩 총 27천원 선입금(입금계좌: 우리은행 1002 - 757 - 724222  장남수) 
+   
  ### 2-1 발표자료 올리는 법
     - 해당 교재챕터 폴더 내에 챕터, 발표순서, 내용 알 수 있도록 제목 정해서 올려주세요
 	- 발표 자료 파일명 예시: 1-2)BeautifulSoup활용하여원하는정보찾기.ipynb
@@ -46,14 +47,14 @@
  - [※ 1기 스터디 자료(Github주소)](https://github.com/namsoojang/Study_Play_with_data)
 
  - [파이썬/아나콘다/쥬피터노트북설치]
-   - [설치가이드](http://kiddwannabe.blog.me/221154599192)
+   - [설치가이드_네이버블로그](http://kiddwannabe.blog.me/221154599192)
    - [설치파일 링크](https://www.anaconda.com/download/)
       ※ 파이썬은 3.x 대 버전으로 설치. (2.x 버전은 곧 유지보수 기간 종료됨)
 
  - [파이썬 기초 학습 참고자료]
    - [점프투파이썬 무료교재](https://wikidocs.net/book/1)
    - [Codeacademy(웹상에서 실습 가능, 무료)](https://www.codecademy.com/ko/tracks/python-ko)
-   - [크롤링 기초자료](http://blog.naver.com/kiddwannabe)
+   - [크롤링 기초자료_네이버블로그](http://blog.naver.com/kiddwannabe)
 
  - [기타 준비하면 좋을 내용들]
    - 교재 사전 탐색: 유튜브 강의 + 교재 내용 확인.
