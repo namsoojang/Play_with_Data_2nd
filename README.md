@@ -46,7 +46,7 @@
  - [※ 1기 스터디 자료(Github주소)](https://github.com/namsoojang/Study_Play_with_data)
 
  - [파이썬/아나콘다/쥬피터노트북설치]
-   - [설치가이드](http://kiddwannabe.blog.me/221154599192)
+   - [설치가이드_네이버블로그](http://kiddwannabe.blog.me/221154599192)
    - [설치파일 링크](https://www.anaconda.com/download/)
       ※ 파이썬은 3.x 대 버전으로 설치. (2.x 버전은 곧 유지보수 기간 종료됨)
 
