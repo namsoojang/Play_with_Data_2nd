@@ -1,0 +1,43 @@
+1. 데이터분석 프로젝트 프로세스
+
+    가. 인터뷰
+         1) 주제선정
+         2) Data 
+
+    나. 시스템 아키텍쳐 구축 
+         1) sizing (보관용량, 얼마나 보관할 것인가, 어떤 시스템을 쓸 것인가, 어떻게 시스템을 구축할 것인가) 
+            (1) 시스템 구축 (2) 데이터 저장  (3) 데이터 분산처리(Spark..)
+         2) 데이터 수집 (필요Data)
+         3) 데이터 전처리 (data 가공 - 분석이 가능하도록)
+         4) 데이터 마트 (분석을 위한 기초 Set) ; Feature, Target값 등.. 
+         5) 데이터 특성 파악, EDA (탐색적 데이터 분석) 
+            - box plot, scatter --> 데이터 정리(이상치, 불필요한 data 제거)
+         6) 데이터 셋 최종 ->  
+            (1) 피쳐, 타겟값을 넣은 Data set
+            (2) 피쳐 최소화, 최적화 (차원축소 등..)
+            (3) 분석알고리즘 선택(최적, 최고 성능 알고리즘 선택)
+            (4) 검증 : 검증을 통해서 오류 최적화 / 오류만 따로 모아서 최소화 시킬 수 있는 방법 고안 (add feature, delete 등) 
+            (5) 최종모델 셋 
+            (6) 분석이용 -> 결과 보여줄 수 있는 dash board 작성.. 
+            (7) 지속 업데이트 
+
+ 
+
+2. 데이터 공부할 수 있는 사이트 
+   1) 코세라 : 많은 강의
+   2) 유다시티, EDX : 검증된 강의
+   3) 유다시티 : 실무위주 강의 / else 이론위주 강의
+   4) 고려대 통계학과에서 무료로.. 하는 강의... 
+
+
+3. ML & DL 블로그
+http://gentlej90.tistory.com/29
+http://www.dodomira.com/2016/08/19/frequently_used_analyitic_method/
+https://github.com/iwannab1/python-ml
+
+
+샘플데이터
+http://www.retrosheet.org/gamelogs/index.html
+
+딥러닝 참고 유투브
+https://www.youtube.com/watch?v=mH3w-OmHQK0&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq&index=16
