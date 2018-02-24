@@ -12,7 +12,7 @@
  - [ 발표계획 및 교재내용&Youtube 정리(구글드라이브)](https://docs.google.com/spreadsheets/d/1yejRWNkHzr1tkJ2kY6v8Y0BY_ZJGrR7JJXrDYSN8LnE/edit#gid=2023258204)
  - 스터디인원: 10명
  - 비용: 스터디공간 지원으로 무료! Thanks to 상수동아지트(컬러버튼)
- - [ 스터디 소개글 @카카오브런치](https://brunch.co.kr/@kakao-it/201)
+ - [ 스터디 소개글 @카카오AI리포트](https://brunch.co.kr/@kakao-it/201)
   
    
 ## 2. 스터디 운영방향
