@@ -4,8 +4,7 @@
 ## 1. 스터디 개요
 
  - 일시: 매주 1회(수요일) 저녁 8시 ~ 10시 
- - 장소: 마포구 상수동 318-2 4층(상수역 1번출구)
-         [네이버지도](http://naver.me/GF20WZIm)
+ - 장소: 마포구 상수동 318-2 4층 컬러버튼(상수역 1번출구) [ 오시는길](http://colorbutton.co.kr/?page_id=15374)
  - 기간: 1/10(수) 사전워크샵, 1/24 부터 3/28 까지 9주간 진행(설 연휴 주간 2/14 미진행)
  - 교재: 파이썬을 활용한 머신러닝, 딥러닝 실전개발 입문
  - [ 교재Link](http://wikibook.co.kr/python-machine-learning/trackback)
@@ -13,7 +12,8 @@
  - [ 발표계획 및 교재내용&Youtube 정리(구글드라이브)](https://docs.google.com/spreadsheets/d/1yejRWNkHzr1tkJ2kY6v8Y0BY_ZJGrR7JJXrDYSN8LnE/edit#gid=2023258204)
  - 스터디인원: 10명
  - 비용: 스터디공간 지원으로 무료! Thanks to 상수동아지트(컬러버튼)
-  
+ - [ 스터디 소개글 @카카오AI리포트](https://brunch.co.kr/@kakao-it/201)
+  
    
 ## 2. 스터디 운영방향
 
